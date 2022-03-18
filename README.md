@@ -4,9 +4,11 @@
 *Paradigma funcional aplicado al acrhivo src/Calculator.js*
 Este archivo contiene las funciones basicas contenidas para las operaciones basicas de una calculadora
 
-## Available Scripts
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59320487/158994563-8e3cc93d-1ce5-480b-a460-60b2fcb51543.png"
+</p>   
 
 ### `npm start`
 

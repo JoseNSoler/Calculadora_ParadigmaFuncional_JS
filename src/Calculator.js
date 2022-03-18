@@ -1,4 +1,4 @@
-// Prueba para calculadora, implementacion pendiente en formato REACT
+// Funciones implementando paradgima funcional
 
 export function resta(numero1, numero2) {
     return numero1 - numero2;
